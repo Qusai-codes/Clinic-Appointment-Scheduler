@@ -1,1 +1,5 @@
-<Solution />
+<Solution>
+  <Project Path="ClinicAppointmentScheduler.Business/ClinicAppointmentScheduler.Business.csproj" />
+  <Project Path="ClinicAppointmentScheduler.DataAccess/ClinicAppointmentScheduler.DataAccess.csproj" />
+  <Project Path="ClinicAppointmentScheduler.Presentation/ClinicAppointmentScheduler.Presentation.csproj" />
+</Solution>

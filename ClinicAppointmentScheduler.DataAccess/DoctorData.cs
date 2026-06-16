@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ClinicAppointmentScheduler.DataAccess
 {
-    internal class DoctorsData
+    internal class DoctorData
     {
     }
 }
